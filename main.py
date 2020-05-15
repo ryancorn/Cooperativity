@@ -1,7 +1,6 @@
 def func():
 
     for i in range():
-        print("hello")
 
 
 
