@@ -7,6 +7,8 @@ def func():
 def func2():
 
     for i in range():
+        print("Modification from master branch")
+
         print("Function 2")
 
 
