@@ -1,7 +1,7 @@
 def func():
 
     for i in range():
-
+        print("Function 2")
 
 
 def func2():
